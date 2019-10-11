@@ -16,7 +16,8 @@
         "php": "^7.2"
     },
     "require-dev": {
-        "phpunit/phpunit": "^7.2"
+        "phpunit/phpunit": "^8.2",
+        "phan/phan": "^2.2"
     },
     "autoload": {
         "psr-4": {
@@ -32,5 +33,8 @@
         "branch-alias": {
             "dev-master": "3.0.x-dev"
         }
+    },
+    "scripts": {
+        "phan": "phan --progress-bar -o analysis.txt"
     }
 }
