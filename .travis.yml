@@ -14,6 +14,7 @@ matrix:
     - php: '7.3'
       env:
         - TASK_STATIC_ANALYSIS=0 # set to 1 to enable static analysis
+    - php: '7.4snapshot'
 
 # faster builds on new travis setup not using sudo
 sudo: false
