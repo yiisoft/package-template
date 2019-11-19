@@ -36,5 +36,8 @@
     },
     "scripts": {
         "phan": "phan --progress-bar -o analysis.txt"
+    },    
+    "config": {
+        "sort-packages": true
     }
 }
