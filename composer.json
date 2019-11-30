@@ -2,7 +2,9 @@
     "name": "yiisoft/_____",
     "type": "library",
     "description": "_____",
-    "keywords": ["_____"],
+    "keywords": [
+        "_____"
+    ],
     "homepage": "http://www.yiiframework.com/",
     "license": "BSD-3-Clause",
     "support": {
@@ -36,7 +38,7 @@
     },
     "scripts": {
         "phan": "phan --progress-bar -o analysis.txt"
-    },    
+    },
     "config": {
         "sort-packages": true
     }
