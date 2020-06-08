@@ -20,6 +20,7 @@
         "php": "^7.4"
     },
     "require-dev": {
+        "infection/infection": "^0.16.3",
         "phpunit/phpunit": "^9.0",
         "phan/phan": "^3.0"
     },
@@ -37,9 +38,6 @@
         "branch-alias": {
             "dev-master": "3.0.x-dev"
         }
-    },
-    "scripts": {
-        "phan": "phan --progress-bar -o analysis.txt"
     },
     "config": {
         "sort-packages": true
