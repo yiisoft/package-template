@@ -27,6 +27,7 @@ jobs:
         with:
           php-version: "${{ matrix.php-version }}"
           tools: cs2pr, phan
+          coverage: none
 
       - name: Static analysis with phan
         run: phan --no-progress-bar --output-mode checkstyle | cs2pr --graceful-warnings --colorize
