@@ -1,8 +1,8 @@
-name: static analysis
-
 on:
   - pull_request
   - push
+
+name: static analysis
 
 jobs:
   mutation:
