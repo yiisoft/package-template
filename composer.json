@@ -17,7 +17,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "^7.4"
+        "php": ">=7.4"
     },
     "require-dev": {
         "infection/infection": "^0.16.3",
