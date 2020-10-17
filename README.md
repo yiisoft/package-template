@@ -21,7 +21,7 @@ The package ...
 The package could be installed with composer:
 
 ```
-composer require yiisoft/_____
+composer req yiisoft/_____ --prefer-dist
 ```
 
 ## General usage
