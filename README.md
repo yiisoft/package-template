@@ -16,6 +16,10 @@
 
 The package ...
 
+## Requirements
+
+- PHP 7.4 or higher.
+
 ## Installation
 
 The package could be installed with composer:
@@ -26,7 +30,9 @@ composer require yiisoft/_____ --prefer-dist
 
 ## General usage
 
-## Unit testing
+## Testing
+
+### Unit testing
 
 The package is tested with [PHPUnit](https://phpunit.de/). To run tests:
 
@@ -34,7 +40,7 @@ The package is tested with [PHPUnit](https://phpunit.de/). To run tests:
 ./vendor/bin/phpunit
 ```
 
-## Mutation testing
+### Mutation testing
 
 The package tests are checked with [Infection](https://infection.github.io/) mutation framework. To run it:
 
@@ -42,10 +48,17 @@ The package tests are checked with [Infection](https://infection.github.io/) mut
 ./vendor/bin/infection
 ```
 
-## Static analysis
+### Static analysis
 
 The code is statically analyzed with [Psalm](https://psalm.dev/). To run static analysis:
 
 ```php
 ./vendor/bin/psalm
 ```
+
+## License
+
+The Yii _____ is free software. It is released under the terms of the BSD License.
+Please see [`LICENSE`](./LICENSE.md) for more information.
+
+Maintained by [Yii Software](https://www.yiiframework.com/).
