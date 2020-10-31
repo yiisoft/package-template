@@ -36,7 +36,7 @@ composer require yiisoft/_____ --prefer-dist
 
 The package is tested with [PHPUnit](https://phpunit.de/). To run tests:
 
-```php
+```shell
 ./vendor/bin/phpunit
 ```
 
@@ -44,7 +44,7 @@ The package is tested with [PHPUnit](https://phpunit.de/). To run tests:
 
 The package tests are checked with [Infection](https://infection.github.io/) mutation framework. To run it:
 
-```php
+```shell
 ./vendor/bin/infection
 ```
 
@@ -52,7 +52,7 @@ The package tests are checked with [Infection](https://infection.github.io/) mut
 
 The code is statically analyzed with [Psalm](https://psalm.dev/). To run static analysis:
 
-```php
+```shell
 ./vendor/bin/psalm
 ```
 
