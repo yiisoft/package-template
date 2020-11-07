@@ -16,37 +16,43 @@
 
 The package ...
 
+## Requirements
+
+- PHP 7.4 or higher.
+
 ## Installation
 
 The package could be installed with composer:
 
 ```
-composer install yiisoft/_____
+composer require yiisoft/_____ --prefer-dist
 ```
 
 ## General usage
 
-## Unit testing
+## Testing
+
+### Unit testing
 
 The package is tested with [PHPUnit](https://phpunit.de/). To run tests:
 
-```php
+```shell
 ./vendor/bin/phpunit
 ```
 
-## Mutation testing
+### Mutation testing
 
 The package tests are checked with [Infection](https://infection.github.io/) mutation framework. To run it:
 
-```php
+```shell
 ./vendor/bin/infection
 ```
 
-## Static analysis
+### Static analysis
 
 The code is statically analyzed with [Psalm](https://psalm.dev/). To run static analysis:
 
-```php
+```shell
 ./vendor/bin/psalm
 ```
 
@@ -61,3 +67,10 @@ The code is statically analyzed with [Psalm](https://psalm.dev/). To run static 
 [![Telegram](https://img.shields.io/badge/telegram-join-1DA1F2?style=flat&logo=telegram)](https://t.me/yii3ru)
 [![Facebook](https://img.shields.io/badge/facebook-join-1DA1F2?style=flat&logo=facebook&logoColor=ffffff)](https://www.facebook.com/groups/yiitalk)
 [![Slack](https://img.shields.io/badge/slack-join-1DA1F2?style=flat&logo=slack)](https://yiiframework.com/go/slack)
+
+## License
+
+The Yii _____ is free software. It is released under the terms of the BSD License.
+Please see [`LICENSE`](./LICENSE.md) for more information.
+
+Maintained by [Yii Software](https://www.yiiframework.com/).
