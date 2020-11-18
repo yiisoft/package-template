@@ -6,13 +6,6 @@ updates:
       schedule:
           interval: "daily"
 
-    # Maintain dependencies for npm
-    - package-ecosystem: "npm"
-      directory: "/"
-      schedule:
-          interval: "daily"
-      versioning-strategy: increase
-
     # Maintain dependencies for Composer
     - package-ecosystem: "composer"
       directory: "/"
