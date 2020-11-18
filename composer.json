@@ -23,7 +23,7 @@
         "infection/infection": "^0.19.2",
         "phpunit/phpunit": "^9.3",
         "vimeo/psalm": "^4.1",
-        "phan/phan": "^3.0"
+        "phan/phan": "^3.2"
     },
     "autoload": {
         "psr-4": {
