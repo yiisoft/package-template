@@ -20,7 +20,7 @@
         "php": "^7.4|^8.0"
     },
     "require-dev": {
-        "roave/infection-static-analysis-plugin": "^1.3",
+        "roave/infection-static-analysis-plugin": "^1.4",
         "phpunit/phpunit": "^9.4",
         "vimeo/psalm": "^4.1"
     },
