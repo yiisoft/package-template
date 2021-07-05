@@ -14,6 +14,16 @@
         "irc": "irc://irc.freenode.net/yii",
         "source": "https://github.com/yiisoft/_____"
     },
+    "funding": [
+        {
+            "type": "opencollective",
+            "url": "https://opencollective.com/yiisoft"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/yiisoft"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
