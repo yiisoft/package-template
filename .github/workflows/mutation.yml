@@ -1,6 +1,22 @@
 on:
   pull_request:
+    paths-ignore:
+      - 'docs/**'
+      - 'README.md'
+      - 'CHANGELOG.md'
+      - '.env.example'
+      - '.gitignore'
+      - '.gitattributes'
+
   push:
+    paths-ignore:
+      - 'docs/**'
+      - 'README.md'
+      - 'CHANGELOG.md'
+      - '.env.example'
+      - '.gitignore'
+      - '.gitattributes'
+
   schedule:
     - cron: '0 0 * * *'
 
