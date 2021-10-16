@@ -8,6 +8,7 @@ on:
       - '.gitignore'
       - '.gitattributes'
       - 'infection.json.dist'
+      - 'psalm.xml'
 
   push:
     paths-ignore:
@@ -18,6 +19,7 @@ on:
       - '.gitignore'
       - '.gitattributes'
       - 'infection.json.dist'
+      - 'psalm.xml'
 
   schedule:
     - cron: '0 0 * * *'

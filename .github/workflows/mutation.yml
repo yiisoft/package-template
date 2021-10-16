@@ -7,6 +7,7 @@ on:
       - '.env.example'
       - '.gitignore'
       - '.gitattributes'
+      - 'psalm.xml'
 
   push:
     paths-ignore:
@@ -16,6 +17,7 @@ on:
       - '.env.example'
       - '.gitignore'
       - '.gitattributes'
+      - 'psalm.xml'
 
   schedule:
     - cron: '0 0 * * *'

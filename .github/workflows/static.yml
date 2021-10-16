@@ -8,6 +8,7 @@ on:
       - '.gitignore'
       - '.gitattributes'
       - 'infection.json.dist'
+      - 'phpunit.xml.dist'
 
   push:
     paths-ignore:
@@ -18,6 +19,7 @@ on:
       - '.gitignore'
       - '.gitattributes'
       - 'infection.json.dist'
+      - 'phpunit.xml.dist'
 
   schedule:
     - cron: '0 0 * * *'
