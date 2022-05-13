@@ -7,14 +7,6 @@ finder:
   exclude:
     - docs
     - vendor
-    - resources
-    - views
-    - public
-    - templates
-  not-name:
-    - UnionCar.php
-    - TimerUnionTypes.php
-    - schema1.php
 
 enabled:
   - alpha_ordered_traits
