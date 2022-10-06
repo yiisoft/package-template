@@ -26,6 +26,7 @@
     <coverage>
         <include>
             <directory>./src</directory>
+            <file>./rector.php</file>
         </include>
     </coverage>
 </phpunit>
