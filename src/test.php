@@ -2,4 +2,4 @@
 
 declare(strict_types=1);
 
-$x = fn () => true;
+$x = fn() => true;
