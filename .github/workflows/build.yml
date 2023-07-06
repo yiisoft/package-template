@@ -21,6 +21,10 @@ on:
 
 name: build
 
+concurrency:
+  group: ${{ github.head_ref || github.run_id }}
+  cancel-in-progress: true
+
 jobs:
   phpunit:
     uses: yiisoft/actions/.github/workflows/phpunit.yml@master

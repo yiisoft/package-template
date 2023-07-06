@@ -21,6 +21,10 @@ on:
 
 name: static analysis
 
+concurrency:
+  group: ${{ github.head_ref || github.run_id }}
+  cancel-in-progress: true
+
 jobs:
   psalm:
     uses: yiisoft/actions/.github/workflows/psalm.yml@master
