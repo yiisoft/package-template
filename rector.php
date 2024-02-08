@@ -7,6 +7,7 @@ use Rector\Config\RectorConfig;
 use Rector\Php73\Rector\FuncCall\JsonThrowOnErrorRector;
 use Rector\Php74\Rector\Closure\ClosureToArrowFunctionRector;
 use Rector\Php81\Rector\Property\ReadOnlyPropertyRector;
+use Rector\Php81\Rector\FuncCall\NullToStrictStringFuncCallArgRector;
 use Rector\Set\ValueObject\LevelSetList;
 
 return static function (RectorConfig $rectorConfig): void {
@@ -27,5 +28,6 @@ return static function (RectorConfig $rectorConfig): void {
         ClosureToArrowFunctionRector::class,
         JsonThrowOnErrorRector::class,
         ReadOnlyPropertyRector::class,
+        NullToStrictStringFuncCallArgRector::class,
     ]);
 };
