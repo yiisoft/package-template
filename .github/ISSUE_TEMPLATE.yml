@@ -7,8 +7,8 @@ body:
       label: Description
       description: "Please provide a description and way to reproduce the problem."
       placeholder: |
-        Please use the [Yii Chat](https://t.me/yii3en) or [IRC channel](ircs://irc.libera.chat:6697/yii) for questions.
-
+        Please use the Yii Chat channel or IRC channel for questions.
+        
     validations:
       required: true
   - type: dropdown
