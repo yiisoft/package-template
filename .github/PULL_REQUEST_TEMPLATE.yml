@@ -1,0 +1,26 @@
+name: Pull Request
+literal_block: |
+  > If you have encountered a security-related issue with Yii, please use the [security issue form](https://www.yiiframework.com/security) to report any security issues you have encountered to us.
+  > ###<span style="color:red;">Warning</span>
+  > <span style="color:red;">***DO NOT use the issue tracker or discuss it in the public forum as it will cause more damage than help.***</span>
+description: Create a pull request to propose and collaborate on changes to this repository.
+labels: ["suggestion"]
+body:
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+      description: What is the expected result?
+      placeholder: Describe what you expected to happen
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please describe your suggestion in detail.
+      placeholder: Describe your suggestion in detail. If you wish, attach an image to help us better understand the idea.
+    validations:
+      required: true
+Remember_block: |
+  > Remember, contributions to this repository should follow its <a style="text-decoration: underline" class="Link--inTextBlock" href="https://github.com/yiisoft/docs?tab=coc-ov-file#">contributing guidelines</a> and <a style="text-decoration: underline" styleclass="Link--inTextBlock" href="https://github.com/yiisoft/docs?tab=security-ov-file#">security policy</a>.
