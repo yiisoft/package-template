@@ -30,7 +30,7 @@ If you have encountered a security-related issue with Yii, please use the [secur
 
 <p>&nbsp;</p>
 
-> ###<span style="color:red;">Warning</span>
+> ### <span style="color:red;">Warning</span>
 > <span style="color:red;">***DO NOT use the issue tracker or discuss it in the public forum as it will cause more damage than help.***</span>
 
 <p>&nbsp;</p>
