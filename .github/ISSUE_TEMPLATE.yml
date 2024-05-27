@@ -10,7 +10,7 @@ body:
     attributes:
       label: Yii Version
       description: Which version of Yii are you using?
-      placeholder: "Enter the version you are using of this package"
+      placeholder: "Enter the version of this package you are using"
     validations:
       required: true
   - type: input
