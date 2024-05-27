@@ -32,9 +32,6 @@ body:
         - Microsoft Windows
         - Apple macOS
         - Linux (Default)
-        - Android
-        - iOS
-        - Chrome OS
       default: 2
     validations:
       required: true
