@@ -2,8 +2,7 @@
 
 If you have encountered a security-related issue with Yii, please use the [security issue form](https://www.yiiframework.com/security) to report any security issues you have encountered to us.
 
-> ### <span style="color:red;">Warning</span>
-> <span style="color:red;">***DO NOT use the issue tracker or discuss it in the public forum as it will cause more damage than help.***</span>
+> ***WARNING!*** DO NOT use the issue tracker or discuss it in the public forum as it will cause more damage than help.
 
 > Please note that as a non-commercial OpenSource project we are not able to pay bounties at the moment.
 

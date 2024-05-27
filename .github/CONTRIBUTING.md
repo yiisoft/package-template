@@ -28,12 +28,7 @@ If you don't have any particular package in mind to start with:
 
 If you have encountered a security-related issue with Yii, please use the [security issue form](https://www.yiiframework.com/security) to report any security issues you have encountered to us.
 
-<p>&nbsp;</p>
-
-> ### <span style="color:red;">Warning</span>
-> <span style="color:red;">***DO NOT use the issue tracker or discuss it in the public forum as it will cause more damage than help.***</span>
-
-<p>&nbsp;</p>
+***WARNING!*** DO NOT use the issue tracker or discuss it in the public forum as it will cause more damage than help.
 
 # Additional Resources
 
