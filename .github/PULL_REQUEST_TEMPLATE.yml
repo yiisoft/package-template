@@ -1,0 +1,14 @@
+name: Pull Request
+description: Create a pull request to propose and collaborate on changes to this repository.
+labels: ["suggestion"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please describe your suggestion in detail.
+      placeholder: Describe your suggestion in detail. If you wish, attach an image to help us better understand the idea.
+    validations:
+      required: true
+Remember_block: |
+  > Remember, contributions to this repository should follow its <a style="text-decoration: underline" class="Link--inTextBlock" href="https://github.com/yiisoft/docs?tab=coc-ov-file#">contributing guidelines</a> and <a style="text-decoration: underline" styleclass="Link--inTextBlock" href="https://github.com/yiisoft/docs?tab=security-ov-file#">security policy</a>.
