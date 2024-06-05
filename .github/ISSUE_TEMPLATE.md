@@ -9,8 +9,8 @@
 
 ### Additional info
 
-| Q                | A
-| ---------------- | ---
-| Version          | 1.0.?
-| PHP version      | 
-| Operating system |
+| Q                | A     |
+| ---------------- | ----- |
+| Version          | 1.0.? |
+| PHP version      |       |
+| Operating system |       |
