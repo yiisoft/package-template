@@ -6,14 +6,6 @@ description: Create a bug report
 labels: ["defect"]
 body:
   - type: input
-    id: yiiversion
-    attributes:
-      label: Yii Version
-      description: Which version of Yii are you using?
-      placeholder: "Enter the version of this package you are using"
-    validations:
-      required: true
-  - type: input
     id: phpversion
     attributes:
       label: Version PHP
@@ -34,7 +26,7 @@ body:
         - Linux (Default)
       default: 2
     validations:
-      required: true
+      required: false
   - type: textarea
     id: expected
     attributes:
@@ -42,7 +34,7 @@ body:
       description: What is the expected result?
       placeholder: Describe what you expected to happen
     validations:
-      required: true
+      required: false
   - type: textarea
     id: description
     attributes:
