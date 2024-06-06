@@ -1,0 +1,20 @@
+name: Pull Request
+description: Create a pull request to propose and collaborate on changes to this repository.
+labels:
+  - suggestion
+body:
+- type: markdown
+  attributes:
+    value: |
+      > If you have encountered a security related issue with Yii, please use the [security issue form](https://www.yiiframework.com/security) to report any security issues you have encountered to us. ***WARNING!*** DO NOT use the issue tracker or discuss it in the public forum as it will cause more damage than help.
+- type: textarea
+  id: description
+  attributes:
+    label: Please describe your suggestion in detail.
+    description: If you wish, attach an image to help us better understand the idea. Click this area to highlight it and then dragging files in.
+   validations:
+    required: true
+- type: markdown
+  attributes:
+    value: |
+      > **Please use the [Yii Chat channel](https://t.me/yii3en), [IRC channel](ircs://irc.libera.chat:6697/yii) or [Yii Forum](https://forum.yiiframework.com/c/yii-3-0/63) for questions.**
