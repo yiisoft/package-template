@@ -1,6 +1,6 @@
 # How to contribute
 
-# Prerequisites
+## Prerequisites
 
 - [Yii goal and values](https://github.com/yiisoft/docs/blob/master/001-yii-values.md)
 - [Namespaces](https://github.com/yiisoft/docs/blob/master/004-namespaces.md)
@@ -8,7 +8,7 @@
 - [Exceptions](https://github.com/yiisoft/docs/blob/master/007-exceptions.md)
 - [Interfaces](https://github.com/yiisoft/docs/blob/master/008-interfaces.md)
 
-# Getting started
+## Getting started
 
 Since Yii 3 consists of many packages, we have a [special development tool](https://github.com/yiisoft/docs/blob/master/005-development-tool.md).
 
