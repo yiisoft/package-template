@@ -1,16 +1,21 @@
+---
 name: Bug Report
-literal_block: |
-  > If you have encountered a security-related issue with Yii, please use the [security issue form](https://www.yiiframework.com/security) to report any security issues you have encountered to us.
+literal_block: >
+  > If you have encountered a security-related issue with Yii,
+  please use the [security issue form](https://www.yiiframework.com/security) to
+  report any security issues you have encountered to us.
+
   > ***WARNING!*** DO NOT use the issue tracker or discuss it in the public forum as it will cause more damage than help.
 description: Create a bug report
-labels: ["defect"]
+labels:
+  - defect
 body:
   - type: input
     id: phpversion
     attributes:
       label: Version PHP
       description: What version of PHP are you running?
-      placeholder: "Enter the PHP version you are using"
+      placeholder: Enter the PHP version you are using
     validations:
       required: true
   - type: dropdown
@@ -18,7 +23,7 @@ body:
     attributes:
       label: Operating System
       description: What version of operating system are you running?
-      placeholder: "Linux (Default)"
+      placeholder: Linux (Default)
       multiple: false
       options:
         - Microsoft Windows
@@ -40,8 +45,16 @@ body:
     attributes:
       label: Description
       description: Please provide a description and a way to reproduce the problem.
-      placeholder: Please use the [Yii Chat channel](https://t.me/yii3en), [IRC channel](ircs://irc.libera.chat:6697/yii) or [Yii Forum](https://forum.yiiframework.com/c/yii-3-0/63) for questions.
+      placeholder: Please use the [Yii Chat channel](https://t.me/yii3en), [IRC
+        channel](ircs://irc.libera.chat:6697/yii) or [Yii
+        Forum](https://forum.yiiframework.com/c/yii-3-0/63) for questions.
     validations:
       required: true
-Remember_block: |
-  > Remember, contributions to this repository should follow its <a style="text-decoration: underline" class="Link--inTextBlock" href="https://github.com/yiisoft/docs?tab=coc-ov-file#">contributing guidelines</a> and <a style="text-decoration: underline" styleclass="Link--inTextBlock" href="https://github.com/yiisoft/docs?tab=security-ov-file#">security policy</a>.
+Remember_block: >
+  > Remember, contributions to this repository should follow its
+  <a style="text-decoration: underline" class="Link--inTextBlock"
+  href="https://github.com/yiisoft/docs?tab=coc-ov-file#">contributing
+  guidelines</a> and <a style="text-decoration: underline"
+  styleclass="Link--inTextBlock"
+  href="https://github.com/yiisoft/docs?tab=security-ov-file#">security
+  policy</a>.
