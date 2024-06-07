@@ -35,8 +35,4 @@ If you have encountered a security-related issue with Yii, please use the [secur
 - [Yii coding standards](https://github.com/yiisoft/docs/blob/master/010-code-style.md)
 - [Forum](https://www.yiiframework.com/forum/)
 - [Yii3 Forum](https://forum.yiiframework.com/c/yii-3-0/63)
-- [Community Resources](https://www.yiiframework.com/community)
-- [Yii Wiki](https://www.yiiframework.com/wiki/)
-- [IRC channel](ircs://irc.libera.chat:6697/yii)
-- [General GitHub documentation](https://help.github.com/)
 - [GitHub pull request documentation](https://help.github.com/articles/creating-a-pull-request/)
