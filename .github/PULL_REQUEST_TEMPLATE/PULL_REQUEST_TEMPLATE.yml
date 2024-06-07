@@ -8,7 +8,7 @@ body:
 - type: textarea
   id: description
   attributes:
-    label: Please describe your suggestion in detail.
+    label: Please describe your pull request in detail.
     description: If you wish, attach an image to help us better understand the idea. Click this area to highlight it and then dragging files in.
    validations:
     required: true
