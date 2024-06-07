@@ -1,7 +1,5 @@
 name: Pull Request
 description: Create a pull request to propose and collaborate on changes to this repository.
-labels:
-  - suggestion
 body:
 - type: markdown
   attributes:
