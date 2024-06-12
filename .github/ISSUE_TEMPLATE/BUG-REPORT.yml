@@ -14,7 +14,7 @@ body:
         Describe what you expected to happen.
         Please also include relevant motivation and context. 
     validations:
-      required: false
+      required: true
   - type: checkboxes
     attributes:
       label: 'Is there an existing issue for this?'
