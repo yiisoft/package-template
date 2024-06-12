@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🖐️ Yii Community
+    url: https://www.yiiframework.com/community
+    about: A friendly and helpful Yii community
+  - name: 🗪 Yii Slack channel
+    url: https://yiiframework.com/go/slack
+    about: Yii Slack channel
+  - name: ❓ Yii½ Forum
+    url: https://forum.yiiframework.com
+    about: Please use the Yii forum for questions regarding Yii 1 / 2
+  - name: ❓ Yii3 Forum
+    url: https://forum.yiiframework.com/c/yii-3-0/63
+    about: Please use the Yii3 forum for questions regarding Yii 3
