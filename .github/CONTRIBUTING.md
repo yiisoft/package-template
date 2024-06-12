@@ -1,4 +1,6 @@
-# Prerequisites
+# How to contribute
+
+## Prerequisites
 
 - [Yii goal and values](https://github.com/yiisoft/docs/blob/master/001-yii-values.md)
 - [Namespaces](https://github.com/yiisoft/docs/blob/master/004-namespaces.md)
@@ -6,7 +8,7 @@
 - [Exceptions](https://github.com/yiisoft/docs/blob/master/007-exceptions.md)
 - [Interfaces](https://github.com/yiisoft/docs/blob/master/008-interfaces.md)
 
-# Getting started
+## Getting started
 
 Since Yii 3 consists of many packages, we have a [special development tool](https://github.com/yiisoft/docs/blob/master/005-development-tool.md).
 
@@ -21,3 +23,16 @@ If you don't have any particular package in mind to start with:
 - [Check roadmap](https://github.com/yiisoft/docs/blob/master/003-roadmap.md).
 - Check package issues at github. Usually there are some.
 - Ask @samdark.
+
+## Reporting a Security Issue
+
+If you have encountered a security-related issue with Yii, please use the [security issue form](https://www.yiiframework.com/security) to report any security issues you have encountered to us.
+
+***WARNING!*** DO NOT use the issue tracker or discuss it in the public forum as it will cause more damage than help.
+
+# Additional Resources
+
+- [Yii coding standards](https://github.com/yiisoft/docs/blob/master/010-code-style.md)
+- [Forum](https://www.yiiframework.com/forum/)
+- [Yii3 Forum](https://forum.yiiframework.com/c/yii-3-0/63)
+- [GitHub pull request documentation](https://help.github.com/articles/creating-a-pull-request/)
