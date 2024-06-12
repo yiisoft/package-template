@@ -1,6 +1,6 @@
 
 name: 🐞 Report an issue
-description: Create a report to help us improve
+description: Let us know about framework problem
 body:
   - type: markdown
     attributes:
