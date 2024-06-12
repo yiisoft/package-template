@@ -1,5 +1,5 @@
 
-name: 🐞 Report a Issues
+name: 🐞 Report an issue
 description: Create a report to help us improve
 body:
   - type: markdown
