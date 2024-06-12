@@ -15,30 +15,16 @@ body:
         Please also include relevant motivation and context. 
     validations:
       required: true
-  - type: checkboxes
-    attributes:
-      label: 'Is there an existing issue for this?'
-      description: 'Please [search :mag: the issues](https://github.com/appium/appium/issues) to check if this bug has already been reported.'
-      options:
-      - label: 'I have searched the existing issues'
-        required: true
   - type: textarea
-    id: id-description
+    id: id-actual-result
     attributes:
-      label: "Description"
-      description: |
-        Description of your incident. Please use the [Yii Chat channel](https://t.me/yii3en) or [Yii Forum](https://forum.yiiframework.com/c/yii-3-0/63) for questions.
-      placeholder: Write in detail anything that gives us more context about the problem you are facing!
+      label: What is the real result?
+      description: Description of your incident. Please use the [Yii Chat channel](https://t.me/yii3en) or [Yii Forum](https://forum.yiiframework.com/c/yii-3-0/63) for questions.
+      placeholder: |
+        Describe the real result you obtained.
+        Write in detail anything that gives us more context about the problem you are facing!
     validations:
       required: true
-  - type: input
-    id: id-reprod-url
-    attributes:
-      label: "Reproduction URL"
-      description: Please enter your GitHub URL to provide a reproduction of the issue
-      placeholder: ex. https://github.com/USERNAME/REPO-NAME
-    validations:
-      required: false
   - type: textarea
     id: id-steps
     attributes:
