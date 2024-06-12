@@ -22,14 +22,6 @@ body:
       options:
       - label: 'I have searched the existing issues'
         required: true
-  - type: input
-    id: id-fix-issues
-    attributes:
-      label: "Fixes # (issue)"
-      description: Please enter comma-separated list of tickets, if any
-      placeholder: 'ex. #1234; #45678; #99990;'
-    validations:
-      required: false
   - type: textarea
     id: id-description
     attributes:
