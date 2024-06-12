@@ -40,7 +40,7 @@ body:
     validations:
       required: false
   - type: textarea
-    id: id-reprod
+    id: id-steps
     attributes:
       label: "Reproduction steps"
       description: |
