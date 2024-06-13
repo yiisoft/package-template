@@ -11,16 +11,16 @@ body:
     id: id-issue-category
     attributes:
       label: Issue Category
-      description: Delete what does not apply
+      description: Choose the options that best describe your suggestion. **Delete what does not apply.**
       value: |
-        - Typo or editorial suggestion <!-- consider submitting a PR instead of opening this issue! -->
-          - **Link to page:**
-        - Incorrect/Outdated information
-          - **Link to page:**
-        - Can't find an answer to a specific question
-        - Missing page/section/topic
-        - Organization/Navigation suggestion
-        - Other
+        - Typo or editorial suggestion (**Link to page:**)
+        - Incorrect/Outdated information (**Link to page:**)
+        - Missing page/section/topic (**Link to page:**)
+        - Can't find an answer to a specific question ✔️
+        - Organization/Navigation suggestion ✔️
+        - Other ✔️
+
+
     validations:
       required: true
   - type: textarea
