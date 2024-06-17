@@ -5,7 +5,7 @@
 -->
 
 ## ✔️ Check all applicable options or remove those that do not apply
-- [] Refactor
+- [] Refactoring
 - [] New Feature
 - [] Bug Fix
 - [] Optimization
