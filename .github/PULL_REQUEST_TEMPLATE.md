@@ -1,6 +1,8 @@
+<!--
 🚨 If you have encountered a SECURITY RELATED ISSUE with Yii, [use this form](https://www.yiiframework.com/security) to report any security issues you have encountered to us. ❗DO NOT use the issue tracker or discuss it in the public forum as this will cause more harm than help.
 
 ❗ Remove sections that are not applicable
+-->
 
 ## ✔️ Check all applicable options or remove those that do not apply
 - [] Refactor
