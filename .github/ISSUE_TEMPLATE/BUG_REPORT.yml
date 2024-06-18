@@ -19,7 +19,6 @@ body:
     id: id-actual
     attributes:
       label: What is the real result?
-      description: Description of your incident. Please use the [Yii Chat channel](https://t.me/yii3en) or [Yii Forum](https://forum.yiiframework.com/c/yii-3-0/63) for questions.
       placeholder: |
         Describe the real result you got.
         Write in detail anything that gives us more context about the problem you are facing!
