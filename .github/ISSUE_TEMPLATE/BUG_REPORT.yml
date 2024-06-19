@@ -60,7 +60,7 @@ body:
     id: osversion
     attributes:
       label: "Operating System"
-      description: What version of operating system are you running?
+      description: What operating system are you running?
       multiple: true
       options:
         - Windows
