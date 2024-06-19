@@ -20,7 +20,7 @@ body:
     attributes:
       label: What is the actual result?
       placeholder: |
-        Describe the real result you got.
+        Describe the actual result you got.
         Write in detail anything that gives us more context about the problem you are facing!
     validations:
       required: true
