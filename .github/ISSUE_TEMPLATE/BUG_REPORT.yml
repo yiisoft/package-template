@@ -29,7 +29,7 @@ body:
     attributes:
       label: "Reproduction steps"
       description: |
-        Please enter an explicit steps to reproduce the issue.
+        Please enter explicit steps to reproduce the issue.
         Reproductions cases must be minimal and focused around the specific problem you are experiencing. This is the best way to ensure this issue is triaged quickly.
       value: |
         1. Go to '...'
