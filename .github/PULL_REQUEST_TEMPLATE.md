@@ -13,13 +13,6 @@
 - [] Does this PR introduce a breaking change?
 
 
-## 🛠️ Fixes Issue
-- Related Issue (comma-separated) #
-
-
-
-
-
 ## ✍ Description
 Please describe your suggestion in detail.
 
