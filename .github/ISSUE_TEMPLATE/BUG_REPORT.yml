@@ -51,7 +51,7 @@ body:
   - type: input
     id: phpversion
     attributes:
-      label: Version PHP
+      label: PHP version
       description: What version of PHP are you running?
       placeholder: Enter the PHP version you are using
     validations:
