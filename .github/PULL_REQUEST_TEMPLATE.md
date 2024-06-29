@@ -7,15 +7,13 @@
 | Fixed issues  | comma-separated list of tickets # fixed by the PR, if any
 
 
-## ✍ Description
-Please describe your PR in detail.
+## ✍ Describe your PR in detail
 
 
 
 
 
-## 📷 Screenshots
-If you wish, attach an image to help us better understand the idea.
+## 📷 Screenshots - If you wish, attach an image to help us better understand the idea
 
 
 
