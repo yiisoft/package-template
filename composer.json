@@ -40,12 +40,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Yiisoft\\_____\\": "src"
+            "Yiisoft\\_____\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Yiisoft\\_____\\Tests\\": "tests"
+            "Yiisoft\\_____\\Tests\\": "tests/"
         }
     },
     "config": {
