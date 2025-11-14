@@ -7,7 +7,7 @@ on:
       - 'tests/**'
       - '.github/workflows/rector-cs.yml'
       - 'composer.json'
-      - 'rector-cs.php'
+      - 'rector.php'
       - '.php-cs-fixer.dist.php'
 
 permissions:
