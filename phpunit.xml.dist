@@ -9,6 +9,7 @@
          executionOrder="random"
          failOnRisky="true"
          failOnWarning="true"
+         failOnDeprecation="true"
          stopOnFailure="false"
          colors="true"
          displayDetailsOnPhpunitDeprecations="true"
