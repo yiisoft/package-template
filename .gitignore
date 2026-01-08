@@ -29,3 +29,4 @@ composer.phar
 
 # PHP CS Fixer
 /.php-cs-fixer.cache
+/.php-cs-fixer.php
