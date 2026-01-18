@@ -17,6 +17,12 @@ return (new Config())
     ->setRules([
         '@PER-CS3.0' => true,
         'no_unused_imports' => true,
+        'no_extra_blank_lines' => [
+            'tokens' => [
+                'curly_brace_block',
+                'extra',
+            ],
+        ],
         'ordered_class_elements' => true,
         'class_attributes_separation' => ['elements' => ['method' => 'one']],
         'declare_strict_types' => true,
