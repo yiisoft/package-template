@@ -33,10 +33,10 @@
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.93",
         "yiisoft/code-style": "^1.0",
-        "maglnet/composer-require-checker": "^4.7.1",
         "phpunit/phpunit": "^10.5.63",
         "rector/rector": "^2.4.2",
         "roave/infection-static-analysis-plugin": "^1.35",
+        "shipmonk/composer-dependency-analyser": "^1.8.4",
         "spatie/phpunit-watcher": "^1.24",
         "vimeo/psalm": "^5.26.1 || ^6.10.3"
     },
@@ -60,6 +60,7 @@
     "scripts": {
         "test": "phpunit --display-deprecations",
         "test-watch": "phpunit-watcher watch",
-        "cs-fix": "php-cs-fixer fix"
+        "cs-fix": "php-cs-fixer fix",
+        "dependency-analyser": "composer-dependency-analyser"
     }
 }
