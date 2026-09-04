@@ -2,15 +2,15 @@
 
 ## Prerequisites
 
-- [Yii goal and values](https://github.com/yiisoft/docs/blob/master/001-yii-values.md)
-- [Namespaces](https://github.com/yiisoft/docs/blob/master/004-namespaces.md)
-- [Git commit messages](https://github.com/yiisoft/docs/blob/master/006-git-commit-messages.md)
-- [Exceptions](https://github.com/yiisoft/docs/blob/master/007-exceptions.md)
-- [Interfaces](https://github.com/yiisoft/docs/blob/master/008-interfaces.md)
+- [Yii goal and values](https://yiisoft.github.io/docs/internals/001-yii-values)
+- [Namespaces](https://yiisoft.github.io/docs/internals/004-namespaces)
+- [Git commit messages](https://yiisoft.github.io/docs/internals/006-git-commit-messages)
+- [Exceptions](https://yiisoft.github.io/docs/internals/007-exceptions)
+- [Interfaces](https://yiisoft.github.io/docs/internals/008-interfaces)
 
 ## Getting started
 
-Since Yii3 consists of many packages, we have a [special development tool](https://github.com/yiisoft/docs/blob/master/005-development-tool.md).
+Since Yii3 consists of many packages, we have a [special development tool](https://yiisoft.github.io/docs/internals/005-development-tool).
 
 1. [Clone the repository](https://github.com/yiisoft/yii-dev-tool).
 
@@ -20,7 +20,7 @@ Since Yii3 consists of many packages, we have a [special development tool](https
 
 If you don't have any particular package in mind to start with:
 
-- [Check roadmap](https://github.com/yiisoft/docs/blob/master/003-roadmap.md).
+- [Check roadmap](https://yiisoft.github.io/docs/internals/003-roadmap).
 - Check package issues at github. Usually there are some.
 - Ask @samdark.
 
@@ -32,7 +32,7 @@ If you have encountered a security-related issue with Yii, please use the [secur
 
 # Additional Resources
 
-- [Yii coding standards](https://github.com/yiisoft/docs/blob/master/010-code-style.md)
+- [Yii coding standards](https://yiisoft.github.io/docs/internals/010-code-style)
 - [Forum](https://www.yiiframework.com/forum/)
 - [Yii3 Forum](https://forum.yiiframework.com/c/yii-3-0/63)
 - [GitHub pull request documentation](https://help.github.com/articles/creating-a-pull-request/)
